@@ -6,7 +6,7 @@ A collection of interview solutions
 
 ## [Amazon](./amazon)
 
-## [Architect.io](./architect-io)
+## [Architect.io](./architect_io)
 
 ## [Coinbase](./coinbase)
 
