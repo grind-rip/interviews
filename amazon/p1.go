@@ -3,7 +3,7 @@ package main
 // Complete the 'getMinMoves' function below.
 //
 // The function is expected to return an INTEGER.
-// The function accepts INTEGER_ARRAY plates as parameter.
+// The function accepts INTEGER_ARRAY plates as a parameter.
 
 // An inversion occurs when a larger element appears before a smaller element
 // in the array. Each inversion must be resolved by at least one adjacent swap
