@@ -11,7 +11,10 @@ Solutions for the Amazon online assessment
 Solutions for the Architect.io technical interview
 
 ## [Coinbase](./coinbase)
+Solutions for the Coinbase technical interview
 
 ## [Google](./google)
+Solutions for the Google technical interview
 
 ## [Workiva](./workiva)
+Solutions for the Workiva technical interview
