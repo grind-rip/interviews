@@ -21,6 +21,6 @@ Solutions for the Amazon online assessment
 
 Flushed. I was able to put together two naive solutions (both O(n^2)), however this obviously won't cut it at Amazon. Looking back, this is when I thought using Go would make me look *smarter*. This was a dumb assumption and in reality just made the process of actually solving problems more difficult.
 
-## Reflection
+## Reflections
 
 Amazon tries to bog you down with superfluous information in these types of problems. Unlike with LeetCode, where the problem statement is centered around a core algorithm, the problem statements for the online assessments are like short stories. This is probably aimed at preventing cheating while also testing a candidate's reading comprehension.
