@@ -3,7 +3,7 @@
 * **Date**: April 13th, 2022
 * **Format**: Technical Interview
 
-Solutions for the technical interview
+Solutions for the Architect.io technical interview
 
 ---
 
