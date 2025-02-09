@@ -19,6 +19,6 @@ Flushed. I was able to complete both coding problems, but they were looking for 
 
 This was the first time I felt like I actually did well during a technical interview. Though looking back, the questions were super easy.
 
-## Reflections
+## Reflection
 
 Probably dodged a bullet on this one. Judging by their [LinkedIn](https://www.linkedin.com/company/architect-io), Architect.io went out of business somewhere between July 2023 and January 2024.
