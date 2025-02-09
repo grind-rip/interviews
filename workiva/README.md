@@ -13,11 +13,11 @@ Solutions for the technical interview
 
 ## Outcome
 
-**Offer**
-* Base: $135,000.00
-* Sign On Bonus: $10,000.00
-* RSUs: $50,000.00 (25/25/25/25)
-* Fully remote
+* **Offer**
+  * Base: $135,000.00
+  * Sign On Bonus: $10,000.00
+  * RSUs: $50,000.00 (25/25/25/25)
+  * Fully remote
 
 ## Reflection
 
