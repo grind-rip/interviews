@@ -14,7 +14,8 @@ import (
 
 // findMaximumSustainableClusterSizeNaive finds maximum sustainable cluster
 // size using a sliding window.
-func findMaximumSustainableClusterSizeNaive(processingPower []int32, bootingPower []int32, powerMax int64) int32 {
+func findMaximumSustainableClusterSizeNaive(
+	processingPower []int32, bootingPower []int32, powerMax int64) int32 {
 	// This problem can be approached as a sliding window problem given the
 	// constraint:
 	//
@@ -64,7 +65,8 @@ func findMaximumSustainableClusterSizeNaive(processingPower []int32, bootingPowe
 
 // findMaximumSustainableClusterSizeOptimal finds maximum sustainable cluster
 // size using a monotonic queue.
-func findMaximumSustainableClusterSizeOptimal(processingPower []int32, bootingPower []int32, powerMax int64) int32 {
+func findMaximumSustainableClusterSizeOptimal(
+	processingPower []int32, bootingPower []int32, powerMax int64) int32 {
 	// A monotonic queue (or monotone priority queue) is maintained with the
 	// maximum booting power of the current group of processors.
 	//
